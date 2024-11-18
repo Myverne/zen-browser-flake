@@ -1,3 +1,6 @@
+# Fork for personal use
+Other forks break things on my machines, I'll just update the version SHAs until some version breaks stuff.
+
 # Zen Browser
 
 This is a flake for the Zen browser.
